@@ -1,0 +1,31 @@
+/* Body background color and font */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Heading size and weight */
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #222;
+}
+
+/* Make all images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Button styling */
+.btn-primary {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #0077cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
