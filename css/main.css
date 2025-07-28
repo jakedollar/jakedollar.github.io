@@ -91,21 +91,7 @@ h1 {
     padding: 12px 24px;
   }
 }
-.hero-img {
-  display: block;
-  width: 50%;
-  max-height: 100px;
-  object-fit: cover;
-  margin: 0 auto;
-}
 
-.image-caption {
-  text-align: center;
-  font-style: italic;
-  font-weight: 500;
-  margin: 1rem auto 0.5rem;
-  max-width: 90%;
-}
 
 
 
