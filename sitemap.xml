@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://jakedollar.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://jakedollar.github.io/pages/about.html</loc>
-  </url>
-  <url>
-    <loc>https://jakedollar.github.io/services.html</loc>
-  </url>
-  <url>
-    <loc>https://jakedollar.github.io/contact.html</loc>
+    <loc>https://jakedollar.github.io/index.html</loc>
   </url>
   <url>
     <loc>https://jakedollar.github.io/gallery.html</loc>
   </url>
   <url>
-    <loc>https://jakedollar.github.io/test.html</loc>
+    <loc>https://jakedollar.github.io/contact.html</loc>
   </url>
+  <url>
+    <loc>https://jakedollar.github.io/services.html</loc>
+  </url>
+  <url>
+    <loc>https://jakedollar.github.io/pages/about.html</loc>
+  </url>
+  <url>
+    <loc>https://jakedollar.github.io/marketing/index.html</loc>
+  </url>
+  <url>
+    <loc>https://jakedollar.github.io/marketing/features.html</loc>
+  </url>
+  <url>
+    <loc>https://jakedollar.github.io/marketing/pricing.html</loc>
+  </url>
+
 </urlset>
