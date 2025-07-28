@@ -59,6 +59,39 @@ img {
   height: 100%;
   border: 0;
 }
+body {
+  font-size: 5vw;       /* responsive font size */
+  padding: 5vw;          /* spacing around content */
+  line-height: 1.5;
+  background-color: #f7f7f7;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+h1 {
+  font-size: 8vw;        /* headline that scales */
+  font-weight: bold;
+}
+@media (min-width: 768px) {
+  body {
+    font-size: 16px;
+    padding: 40px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  .btn-primary {
+    font-size: 18px;
+    padding: 12px 24px;
+  }
+}
+
 
 
 
