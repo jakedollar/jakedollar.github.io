@@ -96,8 +96,6 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
-  max-height: 300px; /* ← Add this line */
-  object-fit: cover; /* Optional: crops the image if needed */
 }
 
 
